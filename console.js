@@ -615,6 +615,7 @@ var exec = document.getElementById('exec'),
         dojo: 'http://ajax.googleapis.com/ajax/libs/dojo/1/dojo/dojo.xd.js',
         mootools: 'http://ajax.googleapis.com/ajax/libs/mootools/1/mootools-yui-compressed.js',
         underscore: 'https://cdn.jsdelivr.net/underscorejs/latest/underscore-min.js',
+        'underscore.string': 'https://cdn.jsdelivr.net/underscore.string/latest/underscore.string.min.js',
         rightjs: 'http://cdn.rightjs.org/right.js',
         coffeescript: 'https://cdn.jsdelivr.net/coffeescript/latest/coffee-script.min.js',
         yui: 'http://yui.yahooapis.com/3.2.0/build/yui/yui-min.js'
